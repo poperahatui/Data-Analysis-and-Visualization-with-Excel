@@ -22,6 +22,6 @@ The project utilised a variety of data analysis techniques, including:
 - EDA
 - Data Visualization
 
-![The following is documentation of the results of the analysis and visualization in the form of a dashboard entitled "COFFE SALES DASHBOARD"](https://github.com/poperahatui/Data-Analysis-and-Visualization-with-Excel/blob/main/Coffe%20Sales%20Dashboard.png?raw=true)
+![The following is documentation of the results of the analysis and visualization in the form of a dashboard entitled "COFFE SALES DASHBOARD"] (https://github.com/poperahatui/Data-Analysis-and-Visualization-with-Excel/blob/main/Coffe%20Sales%20Dashboard.png?raw=true)
 
 **On the dashboard that I have created, you can find some information about Coffe Sales, such as total sales over time, sales by country and top 5 customers. Here you can also filter order date, roast type name, size and loyalty card. Thank you, and I hope it proves beneficial to you.**
